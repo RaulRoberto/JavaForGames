@@ -20,7 +20,6 @@ public class Game extends Canvas implements Runnable , KeyListener{
 	
 	
 	
-	
 	public Game() {
 		this.addKeyListener(this);
 		this.setPreferredSize(new Dimension(WIDTH,HEIGHT));
